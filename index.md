@@ -9,3 +9,7 @@ def helloWorld():
   print("Hello World!")
 helloWorld()
 ```
+- [x] get a job
+- [x] hangout
+- [ ] love yourself
+
